@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import numpy as np
-from Project3_Classes.Helpers import *
+from Helpers import *
 import pickle
 import os
 from PIL import Image
