@@ -188,7 +188,7 @@ if __name__ == '__main__':
         #
         # data = [Beam, AfterWP, AfterWPP, wish, n, Mask, lmbd, BeamDist, z, a, dim, ImgTest, Img, meanafterWP, cmp]
 
-        #fig, axs = main_fig(data)
+        #fig, axs = main_fig(data)   
 
         #Cntn = input("Write 1 to continue? ")
         Cntn = "1"
